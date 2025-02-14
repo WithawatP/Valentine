@@ -1,6 +1,8 @@
 *{
     font-family: "Mitr", serif;
     font-weight: 500;
+    -webkit-text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 body {
     display: flex;
